@@ -1,5 +1,5 @@
 # Welcome! 
-I'm Rilic, an aspiring game developer and creative writer just trying to get through life.
+I'm Raesha, a developer of software, funware, and prose!
 
 Along with various showcases of my coursework and personal projects, you'll find a few things that may actually be useful for you! :>
 
@@ -20,10 +20,10 @@ Engines:
 
 ## Links
 
+📔 My portfolio: https://rilic.red/projects
+
 🎮 My funware: https://rilic.itch.io
 
 🌌 My prose: https://conflux.onl
-
-📔 My portfolio: https://rilic.red/projects
 
 <img src="pascal-star.svg" height="100">
