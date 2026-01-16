@@ -28,4 +28,7 @@ Engines:
 
 <img src="pascal-star.svg" height="100">
 
-Not many green squares? That's because I've moved to my own git forge, powered by Forgejo. I'll be linking there as soon as I migrate my website away from Github Pages. This account will stay active to contribute to projects here, of course, but my personal projects will be developed on my own server.
+> [!NOTE]  
+> Not many green squares?
+>
+> That's because I've moved to my own git forge, powered by Forgejo. I'll be linking there as soon as I migrate my website away from Github Pages. This account will stay active to contribute to projects here, of course, but my personal projects will be developed on my own server.
